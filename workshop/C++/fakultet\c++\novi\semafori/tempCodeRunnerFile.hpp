@@ -1,1 +1,0 @@
-StanjeTelevizora getStanje() const;
