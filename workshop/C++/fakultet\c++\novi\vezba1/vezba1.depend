@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594666513 source:/home/icarus/Desktop/fakultet/c++/novi/vezba1/main.cpp
+	"r.h"
+
+1594666472 /home/icarus/Desktop/fakultet/c++/novi/vezba1/include/r.h
+	<iostream>
+
